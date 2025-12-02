@@ -28,13 +28,14 @@ I discovered that out of all the Data Science internship job postings collected,
 ## Plot / Visualization
 
 Include at least one compelling plot or visualization of your work. Add images in your subdirectory and then display them using markdown in your README.md file.
-![Dashboard Screenshot 1](Screenshot 2025-12-02 003646.png)
 
-![Dashboard Screenshot 2](Screenshot 2025-12-02 003703.png)
+![Dashboard Screenshot 1](Screenshot%202025-12-02%20003646.png)
 
-![Dashboard Screenshot 3](Screenshot 2025-12-02 003821.png)
+![Dashboard Screenshot 2](Screenshot%202025-12-02%20003703.png)
 
-![Dashboard Screenshot 4](Screenshot 2025-12-02 004944.png)
+![Dashboard Screenshot 3](Screenshot%202025-12-02%20003821.png)
+
+![Dashboard Screenshot 4](Screenshot%202025-12-02%20004944.png)
 
 
 ## GitHub Repository
